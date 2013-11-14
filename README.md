@@ -1,9 +1,8 @@
-
 **Installation:**
 
 1) clone
 `````
-git clone git@github.com:volodymyrpartytskyi/vim.git ~/.vim
+git clone https://github.com/rpmilevskiy/vim-1.git ~/.vim
 `````
 2) create symlink
 ````````````
