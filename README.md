@@ -8,7 +8,7 @@ git clone https://github.com/rpmilevskiy/vim-1.git ~/.vim
 ````````````
 ln -s  ~/.vim/.vimrc ~/.vimrc
 ````````````
-4) open gvim and enter:
+3) open gvim and enter:
 ``````````
 :BundleInstall
 ``````````
