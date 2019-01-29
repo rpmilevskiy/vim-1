@@ -46,6 +46,7 @@ set cindent
 :map <C-e> <ESC>:q!<cr>
 nnoremap <silent> <C-b> :BufExplorer<CR>
 
+autocmd BufWritePre * %s/\s\+$//e
 
 " move up and down lines with C-j and C-k (also works in visual mode)
 :nnoremap <A-j> :m+<CR>==
