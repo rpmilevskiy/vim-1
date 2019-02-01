@@ -1,5 +1,5 @@
 **Installation:**
-1) Install vim
+1) Install gvim
 ```
 sudo apt-get install libncurses5-dev libgnome2-dev libgnomeui-dev \
   libgtk2.0-dev libatk1.0-dev libbonoboui2-dev \
