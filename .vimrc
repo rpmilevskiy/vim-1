@@ -64,6 +64,7 @@ let g:ackprg="ack-grep -H --nocolor --nogroup --column"
 
 :let Grep_Default_Filelist = '*.*' 
 :let Grep_Skip_Files = '*.log all.css all.js' 
+:let Grep_Skip_Dirs = '.git tmp system coverage log solr public _site node_modules supporting_documents rfa_decisions fee_schedule_updates attachments'
 set nocompatible
 
 autocmd BufNewFile,BufRead *.html.erb set ft=eruby.html
