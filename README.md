@@ -28,8 +28,8 @@ ln -s  ~/.vim/.vimrc ~/.vimrc
 5) Close vim and run
 
 `````````
- cd ~/.vim/bundle/Command-T/ && rake make && cd
- ````````
+cd ~/.vim/bundle/Command-T/ && rake make && cd
+``````````
 start on the full window
 ``````````
 sudo apt-get install ctags wmctrl
